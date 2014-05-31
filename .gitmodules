@@ -1,0 +1,3 @@
+[submodule "Python/pytutorial"]
+	path = Python/pytutorial
+	url = git@github.com:ShervinAra/pytutorial.git
